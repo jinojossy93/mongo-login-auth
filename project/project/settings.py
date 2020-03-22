@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework_mongoengine',
     'mongoengine.django.mongo_auth',
-    'app',
     'users'
 ]
 
